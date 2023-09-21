@@ -1,0 +1,25 @@
+# Compiled object files
+*.o
+*.so
+*.dll
+
+#Binary Files
+*.bin
+
+# Executables
+*.exe
+*.out
+
+# Compiled C++ programs
+*.out
+
+# Dependency directories
+/bin/
+/build/
+/lib/
+/obj/
+/debug/
+/release/
+
+# Visual Studio Code (VSCode) settings
+.vscode/
